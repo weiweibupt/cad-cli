@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+const tempMap = require(`${__dirname}/../template`)
+console.log(tempMap)
